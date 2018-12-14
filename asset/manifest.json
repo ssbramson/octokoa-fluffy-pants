@@ -1,7 +1,18 @@
 {
   "short_name": "Maps",
   "name": "Google Maps",
-
+  "icons": [
+    {
+      "src": "/asset/media/icons/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/asset/media/iconsicons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
 
   "theme_color": "#232223"
 }
