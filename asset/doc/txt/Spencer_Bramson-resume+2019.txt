@@ -1,0 +1,83 @@
+
+Spencer Bramson
+Key Decision-Maker in Corporate Transformation Initiatives
+--> Key Management Consultant in ... [n], [n], [n]
+
+CONTACT
+resume@ssbramson.com
++1 847.767.6191
+ssbramson.com
+
+INTRODUCTION
+Hands-on, results-driven business consultant with proven success developing and launching innovative corporate strategies to drive growth in fiercely competitive markets. Experienced strategist in digital transformation, able to introduce sweeping reforms, enhancing business operations. Calculated risk-taker who acts quickly - transforming ideas into action. A leader acknowledged for ability to inspire.
+
+HIGHLIGHTS
+• Well-respected influencer amongst thought leaders, key stakeholders, c-suites executives, and partner organizations.
+• An inspirational leader with a track record in galvanizing high-performance teams to embrace a singular vision.
+• Exceptionally well-skilled in idea generation and connecting complex and disparate information into a distinct concept.
+• Experienced in working with high-profile clients and adept in developing and implementing successful, effective marketing
+programs and strategies.
+• Well-versed in establishing marketing programs which connect and engage consumers, and see products to their maximum
+market potential.
+• Strong entrepreneurial posture to see opportunities previously overlooked by other entities; with a significant history in
+partnering with high-growth technology startups.
+• Certified Scrum Master and Scrum Product Owner.
+
+
+EXPERIENCE
+
+1.
+</ssbramson>
+{{ title }}
+{{ start date }} - {{ end date }}
+{{ overview }}
+{{ bullet [n] }}
+
+2.
+ChatterMob
+Chief Analytics Officer & Co-founder
+{{ start date }} - {{ end date }}
+{{ overview }}
+{{ bullet [n] }}
+
+3.
+influencers@
+Chief Executive Officer & Co-founder
+{{ start date }} - {{ end date }}
+{{ overview }}
+{{ bullet [n] }}
+
+4.
+Buzz University
+Chief Operations Officer & Co-founder
+{{ start date }} - {{ end date }}
+{{ overview }}
+{{ bullet [n] }}
+
+5.
+UBS (United Bank of Switzerland) Finical
+{{ title }}
+{{ start date }} - {{ end date }}
+{{ overview }}
+{{ bullet [n] }}
+
+HIGHLIGHTED CLIENTS 
+{{ client [n] }}
+
+AWARDS 
+{{ award [n] }}
+
+CERTIFICATIONS
+{{ certification [n] }}
+
+SKILLS 
+{{ skill [n] }}
+
+TOOLS
+{{ tool [n] }}
+
+LINKS
+ssbramson.com
+skills.ssbramson.com
+clients.ssbramson.com
+linkedin.ssbramson.com
