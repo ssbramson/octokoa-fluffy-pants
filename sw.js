@@ -2,7 +2,7 @@ let CACHE_NAME = 'sw-v0_0000'
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME)
-    .then(cache => cache.addAll('404.html'))
+    .then(cache => cache.addAll('/404.html'))
   )
 })
 self.addEventListener('fetch', (event) => {
