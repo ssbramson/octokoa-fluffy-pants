@@ -2,7 +2,7 @@ new Vue({
   el: "#globalNavigation",
     
   template: `
-    <nav class="global_navigation-container">
+    <nav class="global_navigation-container" role="navigation">
 
     
       <div class="global_navigation-logo-container">
