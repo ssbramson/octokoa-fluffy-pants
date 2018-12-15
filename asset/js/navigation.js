@@ -2,7 +2,9 @@ new Vue({
   el: "#globalNavigation",
     
   template: `
-    <div class="global_navigation-container">
+    <nav class="global_navigation-container">
+
+    
       <div class="global_navigation-logo-container">
         <a href="index.html">{{ navigationLogo }}</a>
       </div>
@@ -20,7 +22,9 @@ new Vue({
         </ul>
 
       </div>
-    </div>
+
+    </nav>
+    
   `,
     
   data: {

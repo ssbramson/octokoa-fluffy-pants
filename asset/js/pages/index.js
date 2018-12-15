@@ -4,6 +4,8 @@ new Vue({
   template: `
     <div class="index-container">
       <div class="index-content">
+
+      <main>
         <div class="index-header">
         🐨<sub>.60</sub> + 🤖<sub>.10</sub> + 🤓<sub>.20</sub> + 🤦‍<sub> .03</sub> + 🤪‍<sub>.07</sub>
         <!-- 🐨<sub>60%</sub> + 🤖<sub>10%</sub> + 🤓<sub>20%</sub> + 🤦‍<sub> 03%</sub> + 🤪‍<sub>07%</sub> -->
@@ -17,6 +19,7 @@ new Vue({
             </li>
           </ul>
         </p>
+      </main>
         
       </div>
     </div>
